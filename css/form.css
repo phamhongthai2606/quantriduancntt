@@ -1,0 +1,48 @@
+form{
+	padding-bottom: 50px;
+}
+form.contact-form > *{
+	display: block;
+	margin: auto;
+	margin-top: 10px;
+}
+form p,a{
+	text-align: center;
+}
+form .title{
+	font-size: 18px;
+}
+form .thongbao{
+	font-size:14px;
+	
+}
+form input.lienhe{
+	padding: 10px;
+	width: 30%;
+}
+form button{
+	padding: 10px;
+	background: white;
+	color: black;
+	border: 1px solid gray;
+	border-radius: 5px;
+}
+form a{
+	padding: 10px;
+	background: white;
+	color: black;
+	border: 1px solid gray;
+  width: 70px;
+	text-decoration: none;
+}
+form button:hover{
+	box-shadow: 2px 2px 5px black;
+}
+form a:hover{
+	box-shadow: 2px 2px 5px black;
+}
+form textarea{
+  width: 30%;
+	padding: 10px;
+	height:100px;
+}

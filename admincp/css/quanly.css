@@ -1,0 +1,33 @@
+.lietke{
+	width: 100%;
+	margin: auto;
+	border-collapse: collapse;
+}
+
+.themsp{
+	width: 80%;
+	margin: auto;
+	border-collapse: collapse;
+}
+
+
+.suasp{
+	width: 60%;
+	margin: auto;
+	border-collapse: collapse;
+}
+
+.themdanhmuc{
+	width: 40%;
+	margin: auto;
+	border-collapse: collapse;
+}
+
+.lietkedanhmucsp{
+	width: 100%;
+	border-collapse: collapse;
+}
+
+tr {
+    background-color: bisque;
+}

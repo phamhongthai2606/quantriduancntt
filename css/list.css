@@ -1,0 +1,82 @@
+ul.list a {
+    text-decoration: none;
+  }
+
+  ul.list_trang {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+ul.list_trang li {
+  float: left;
+  padding: 5px;
+  margin: 5px;
+  background: aliceblue;
+  display: block;
+}
+
+ul.list_trang li a {
+  text-decoration: none; 
+}
+
+.camon p {
+  border: 1px solid;
+  margin: auto;
+  margin-top: 30px;
+  padding: 0;
+  width: 50%;
+  text-align: center;
+  height: 50px;
+  font-size: 20px;
+}
+ 
+.binhluan {
+  border: 1px solid;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  height: auto;
+  width: 100%;
+}
+
+
+.binhluan .infor-user {
+  margin: 5px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.binhluan .infor-user p {
+  margin-left: 5px;
+}
+
+.coment-user p {
+  margin-left: 15px;
+}
+
+.tintuc {
+  border: 1px solid;
+  padding: 5px;
+  width: 160px;
+  float: left;
+  margin: 10px;
+}
+
+.tintuc a {
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.baiviet {
+  border: 1px solid;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  width: 100%;
+  height: auto;
+}
+
+.baiviet h2 {
+  text-align: center;
+}

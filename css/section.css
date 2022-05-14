@@ -1,0 +1,87 @@
+.section{
+	display: inline-block;
+	height: auto;
+	width: auto;
+	background-color: white;
+}
+.section-head{
+	margin-top: 10px;
+	font-size: 22px;
+	border: 1px solid rgba(191,191,191,1.00);
+	margin-left: 2px;
+	padding-top: 8px;
+	width: 858px;
+	padding-bottom: 5px;
+	text-indent: 30px;
+	background: linear-gradient(to right,#003e52,#1895b0);
+	color: white;
+	border-radius: 8px;
+	text-align: center
+}
+.khung-chua-san-pham{
+	margin-top: 10px;
+	margin-left: 20px;
+	float: left;
+	display: inline-block;
+	width: 874px;
+	min-width: 874px;
+}
+
+.list_sp {
+    border: 1px solid #000;
+    margin-top:10px;
+    
+}
+
+table.table {
+    border-collapse: collapse;
+}
+
+tr.bill {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.ma-giam-gia.rows {
+    margin-top: 5px;
+    margin-left: 630px;
+}
+
+h4.summary-heading {
+    text-align: center;
+}
+
+input.dathang.rows {
+    margin-top: 5px;
+	margin-left: 380px;
+	border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.summary-section {
+    border: 1px solid;
+}
+
+input.information {
+    width: 97%;
+    margin-left: 10px;
+    padding-bottom: 10px;
+}
+
+textarea#ghi-chu {
+    width: 97%;
+    margin-left: 10px;
+    padding-bottom: 10px;
+}
+
+#soluong input {
+    width: 30px;
+}
+
+td.xoagiohang {
+    text-align: center; 
+}
+
+td.xoagiohang a{
+	text-decoration: none;
+}
